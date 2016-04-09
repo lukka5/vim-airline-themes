@@ -6,7 +6,7 @@ let s:gui_termbg      = '#5F5F5F'
 let s:cterm_termfg    = 144  " Foreground for branch and file format blocks
 let s:gui_termfg      = '#AFAF87'
 
-let s:cterm_termbg2   = 234  " Background for middle block
+let s:cterm_termbg2   = 236  " Background for middle block
 let s:gui_termbg2     = '#1C1C1C'
 let s:cterm_termfg2   = 39   " Foreground for middle block
 let s:gui_termfg2     = '#F5F5F5'
@@ -34,7 +34,7 @@ let s:gui_replacefg   = '#FFFFFF'
 let s:cterm_alert     = 88   " Modified file alert color
 let s:gui_alert       = '#870000'
 
-let s:cterm_inactivebg = 234 " Background for inactive mode
+let s:cterm_inactivebg = 236 " Background for inactive mode
 let s:gui_inactivebg   = '#1C1C1C'
 let s:cterm_inactivefg = 239 " Foreground for inactive mode
 let s:gui_inactivefg   = '#4E4E4E'
